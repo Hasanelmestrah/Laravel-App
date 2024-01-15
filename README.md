@@ -1,4 +1,5 @@
 #Task:
+
     1. Build a website that serves the below
         a. User registration
             i. Name
@@ -16,6 +17,7 @@
         g. Admin must have 2 reports
             i. User list with status (approved or no) and last login
             ii. Certificates with number of users per certificate
+            
     2. Technical details:
         a. Application should be built using PHP (you can use Laravel or Pure PHP)
         b. Code must follow OOP
@@ -25,6 +27,7 @@
         f. You can use any database to store data (MySQL, MongoDB, ...)
         g. You can use any library to improve you application
         h. Code must be pushed to GitHub as a public repository to be reviewed
+        
     3. Assessments keys
         a. Project Structure
         b. Code structure
